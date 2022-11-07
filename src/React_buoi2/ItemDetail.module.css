@@ -1,0 +1,11 @@
+.info{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40%;
+    height: 40%;
+    background-color: rgba(17, 226, 87, 0.5);
+    transform: translateX(75%);
+    text-align: left;
+    font-size: 24px;
+}

@@ -1,0 +1,23 @@
+.group-item{
+    height: 500px;
+    border: 2px solid blueviolet;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 0;
+}
+.item-top{
+    background-color: rosybrown;
+    height: 40%;
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.item-bottom{
+    padding: 20px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
